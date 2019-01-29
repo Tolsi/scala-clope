@@ -1,1 +1,1 @@
-[CLOPE algorithm](http://centria.di.fct.unl.pt/~yang/pub/clope02.pdf) Scala realization
+[CLOPE algorithm](https://dl.acm.org/citation.cfm?id=775149) Scala realization
